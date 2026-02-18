@@ -8,7 +8,7 @@ CSC 667 Term Project — Spring 2026
 |------|--------|-------|
 | Devin Yuan | BinaryFallow | dyuan3@sfsu.edu |
 | Sirasit Thitirattanakorn | sirasitxp | sthitirattanakorn@sfsu.edu |
-| Member 3 | @username | email@sfsu.edu |
+| Christopher Chan | ItzChrisChan | cchan39@sfsu.edu |
 | Member 4 | @username | email@sfsu.edu |
 
 ## Setup
